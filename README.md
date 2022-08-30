@@ -1,3 +1,8 @@
+# Live project Link
+https://find-your-recipes.netlify.app/
+
+NOTE: Because it is a free API, Yoiu can only make 10 requests per minutes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
